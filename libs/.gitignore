@@ -1,0 +1,6 @@
+/hadoop-common-2.8.0.jar
+/hadoop-core-2.6.0-mr1-cdh5.7.1.jar
+/hadoop-mapreduce-client-core-2.8.0.jar
+/spark-core_2.11-1.6.0.jar
+/spark-sql_2.10-2.1.0.jar
+/.gitignore
